@@ -18,7 +18,7 @@ byte readByte(unsigned int address) {
   addressWrite(addr);
   //Serial.println("address=" + (String)addr);
 
-  delay(10);
+  //delay(10);
 
   // Lettura pins D2/D9 (Bus Dati)
   byte bval = 0;
@@ -34,23 +34,26 @@ byte readByte(unsigned int address) {
 //* Dump ROM
 //******************************************************************************************************************//
 void dumpROM(int size) {
-    // Serial.println("START DUMP ROM (" + (String)size + " byte)");
+  // Serial.println("START DUMP ROM (" + (String)size + " byte)");
 
-    unsigned int addr = 0;
+  unsigned int addr = 0;
+
+  // Azzera lo shift register
+  //addressWrite(0x0000);
+
+  byte buffer[256];
+  int index = 0;
+  for (int i = 0; i < size; i++) {  
+    byte bval = readByte(addr + i);
+    buffer[index] = bval;
+    index ++;
+    //Serial.println(bval, DEC);
     
-    byte buffer[256];
-    int index = 0;
-    for (int i = 0; i < size; i++) {  
-      byte bval = readByte(addr + i);
-      buffer[index] = bval;
-      index ++;
-      //Serial.println(bval, DEC);
-      
-      if (index == 256) {
-        Serial.write(buffer, 256);
-        index = 0;
-      }
+    if (index == 256) {
+      Serial.write(buffer, 256);
+      index = 0;
     }
+  }
     
-    // Serial.println("END DUMP ROM");
+  // Serial.println("END DUMP ROM");
 }
