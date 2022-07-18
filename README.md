@@ -1,5 +1,4 @@
-﻿# A2600-Cartridge-Dumper
-Atari 2600 Cartridge Dumper
+﻿# Atari 2600 Cartridge Dumper
 
 Il progetto nasce in un contesto più ampio di conservazione della tecnologia software e hardware dei primi anni dell'informatica applicata a dispositivi di gioco.
 
