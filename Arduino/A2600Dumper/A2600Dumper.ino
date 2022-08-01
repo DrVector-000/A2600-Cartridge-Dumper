@@ -29,7 +29,7 @@ void setup() {
   }
 
   // Azzera lo shift register
-  addressWrite(0x0000);
+  addressWrite(0x1000);
 
   Serial.begin(115200);
   //Serial.begin(500000);
@@ -107,7 +107,18 @@ void ParseComands(String s) {
       GetComandParams(s, params);
       //Serial.println("PARAM: " + params[0]);
       if (params[0] != "") {
-        dumpROM(params[0].toInt());
+        dumpROM(params[0].toInt(), -1);
+        //Serial.println("+++");
+      }
+    }
+    //**********************************************
+    // DUMPROMBANKED
+    //**********************************************
+    if (comand == "DUMPROMBANKED") {
+      GetComandParams(s, params);
+      //Serial.println("PARAM: " + params[0]);
+      if (params[0] != "") {
+        dumpROMBanked(params[0].toInt());
         //Serial.println("+++");
       }
     }
