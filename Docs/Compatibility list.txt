@@ -2,8 +2,10 @@ Game Title					| Cartridge Code	| Cartridge type		| ROM Read
 ------------------------------------------------------------------------------------------------------------------
 Apriti, Sesamo					| CVA204		| Standard 4K			| X
 Basketball					| CX2624		| Standard 2K			| X
+BMX Air Master					| CX26190		| Atari 16K (F6)		| X
 Pole Position					|			| Atari 8K (F8)			| X
 RealSport Soccer				| CX2667P		| Atari 8K (F8)			| X
+Super Baseball					| CX25152		| Atari 16K (F6)		| X
 Vanguard					| CX2669		| Atari 8K (F8)			| X
 
 
