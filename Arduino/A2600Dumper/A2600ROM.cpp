@@ -79,9 +79,14 @@ void dumpROMBanked(int type) {
   switch(type) {
     // Atari 8K (F8)
     case 0:
-      //selectBank(0x0FF8);
       dumpROM(4096, 0x0FF8);
-      //selectBank(0x0FF9);
+      dumpROM(4096, 0x0FF9);
+      break;
+    // Atari 16K (F6)
+    case 1:
+      dumpROM(4096, 0x0FF6);
+      dumpROM(4096, 0x0FF7);
+      dumpROM(4096, 0x0FF8);
       dumpROM(4096, 0x0FF9);
       break;
   }  
