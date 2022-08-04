@@ -1,4 +1,4 @@
-# Atari 2600 - Baseball
+# Atari 2600 - Basketball
 
 <p align="center" width="100%">
 	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/LABEL_FRONT.jpg" alt="Cartridge Front" width="200"/>
@@ -6,7 +6,7 @@
 
 ## Game information
 
-**Game Title:** Baseball
+**Game Title:** Basketball
 
 **Game Code:** CX2624
 
