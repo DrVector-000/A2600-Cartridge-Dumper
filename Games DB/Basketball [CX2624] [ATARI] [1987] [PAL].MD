@@ -2,21 +2,20 @@
 
 <p align="center" width="100%">
 	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/LABEL_FRONT.jpg" alt="Cartridge Front" width="200"/>
-</p>
+</p> <br/>
 
 ## Game information
 
-**Game Title:** Basketball
-
-**Game Code:** CX2624
-
-**Publisher:** Atari Corp.
-
-**Year:** 1987
+**Game Title:** Basketball <br/>
+**Game Code:** CX2624 <br/>
+**Publisher:** Atari Corp. <br/>
+**Year:** 1987 <br/>
+<br/>
 
 ## ROM information
 
-**Bankswitch Method:** Standard 2 KB (not bankswitched)
+**Bankswitch Method:** Standard 2 KB (not bankswitched) <br/>
+<br/>
 
 ## PCB Information
 
