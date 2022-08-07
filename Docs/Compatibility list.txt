@@ -2,10 +2,21 @@ Game Title					| Cartridge Code	| Cartridge type		| ROM Read
 ------------------------------------------------------------------------------------------------------------------
 Apriti, Sesamo					| CVA204		| Standard 4K			| X
 Basketball					| CX2624		| Standard 2K			| X
+Battlezone					| CX2681		| Atari 8K (F8)			| X
 BMX Air Master					| CX26190		| Atari 16K (F6)		| X
-Pole Position					|			| Atari 8K (F8)			| X
+Combat						| CX2601		| Standard 2K			| X
+Football - RealSports Soccer			| CX2667		| Atari 8K (F8)			| X
+Kangaroo					| CX2689		| Atari 8K (F8)			| X
+Laser Blast					| AG008			| Standard 2K			| X
+Midnight Magic					| CX26129		| Atari 16K (F6)		| X
+Millipede					| CX26118P		| Atari 16K (F6)		| X
+Phoenix						| CX2673		| Atari 8K (F8)			| X
+Pole Position					| CX2694		| Atari 8K (F8)			| X
 RealSport Soccer				| CX2667P		| Atari 8K (F8)			| X
-Super Baseball					| CX25152		| Atari 16K (F6)		| X
+Space Cavern					| AP2002		| Standard 4K			| X
+Star Voyager					| IA3201		| Standard 4K			| X
+Super Baseball					| CX26152		| Atari 16K (F6)		| X
+Super Football					| CX26154		| Atari 16K (F6)		| X
 Vanguard					| CX2669		| Atari 8K (F8)			| X
 
 
@@ -13,4 +24,4 @@ X = Yes
 N = Unavailable
 - = Not Implemented or Not Tested Yet
 
-Update: 2022/08/01
+Update: 2022/08/07
