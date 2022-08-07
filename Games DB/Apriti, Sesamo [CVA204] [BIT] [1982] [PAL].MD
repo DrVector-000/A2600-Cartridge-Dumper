@@ -2,6 +2,7 @@
 
 <p align="center" width="100%">
 	<img src="https://archive.org/download/A26_APRITI_SESAMO_CVA204/LABEL_FRONT.jpg" alt="Cartridge Front" width="200"/>
+	<img src="https://archive.org/download/A26_APRITI_SESAMO_CVA204/LABEL_TOP.jpg" alt="Cartridge Top" width="200"/>
 </p> <br/>
 
 ## Game information
