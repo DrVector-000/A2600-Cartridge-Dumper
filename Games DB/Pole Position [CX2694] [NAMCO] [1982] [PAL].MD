@@ -1,4 +1,4 @@
-# Atari 2600 - BMX Air Master
+# Atari 2600 - Pole Position
 
 <p align="center" width="100%">
 	<img src="https://archive.org/download/A26_POLE_POSITION_CX2694/01_LABEL_FRONT.jpg" alt="Cartridge Front" width="200"/>
