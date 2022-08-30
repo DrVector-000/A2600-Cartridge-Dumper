@@ -5,14 +5,25 @@ Basketball					| CX2624		| Standard 2K			| X
 Battlezone					| CX2681		| Atari 8K (F8)			| X
 BMX Air Master					| CX26190		| Atari 16K (F6)		| X
 Combat						| CX2601		| Standard 2K			| X
+Crystal Castles					| CX26110		| Atari 16K (F6)		| X
+Dark Chambers					| CX26151P		| Atari 16K (F6)		| X
+Defender					| CX2609		| Standard 4K			| X
+Desert Falcon					| CX26140		| Atari 16K (F6)		| X
+Dodge 'em					| CX2637		| Standard 4K			| X
+Double Dunk					| CX26159		| Atari 16K (F6)		| X
 Football - RealSports Soccer			| CX2667		| Atari 8K (F8)			| X
+Jr. Pac-Man					| CX26123		| Atari 16K (F6)		| X
 Kangaroo					| CX2689		| Atari 8K (F8)			| X
 Laser Blast					| AG008			| Standard 2K			| X
 Midnight Magic					| CX26129		| Atari 16K (F6)		| X
 Millipede					| CX26118P		| Atari 16K (F6)		| X
+Missile Command					| CX2638		| Standard 4K			| X
+Ms. Pac-Man					| CX2675		| Atari 8K (F8)			| X
+Outlaw						| CX2605P		| Standard 2K			| X
 Phoenix						| CX2673		| Atari 8K (F8)			| X
 Pole Position					| CX2694		| Atari 8K (F8)			| X
-RealSport Soccer				| CX2667P		| Atari 8K (F8)			| X
+RealSports Soccer				| CX2667P		| Atari 8K (F8)			| X
+RealSports Tennis				| CX2680P		| Atari 8K (F8)			| X
 Space Cavern					| AP2002		| Standard 4K			| X
 Star Voyager					| IA3201		| Standard 4K			| X
 Super Baseball					| CX26152		| Atari 16K (F6)		| X
