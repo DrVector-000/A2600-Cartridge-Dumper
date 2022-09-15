@@ -9,7 +9,7 @@
 ## Game information
 
 **Game Title:** RealSports Tennis <br/>
-**Game Code:** CX26807P <br/>
+**Game Code:** CX2680P <br/>
 **Language:** English <br/>
 **Publisher:** Atari Corporation <br/>
 **Year:** 1983 <br/>
