@@ -1,9 +1,9 @@
 # Atari 2600 - Basketball
 
 <p align="center" width="100%">
-	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/01_LABEL_FRONT.jpg" alt="Cartridge Front" width="200"/>
-	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/02_LABEL_TOP.jpg" alt="Cartridge Top" width="200"/>
-	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/03_CARTRIDGE_BACK.jpg" alt="Cartridge Front" width="200"/>
+	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/01_LABEL_FRONT.JPG" alt="Cartridge Front" width="200"/>
+	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/02_LABEL_TOP.JPG" alt="Cartridge Top" width="200"/>
+	<img src="https://ia601400.us.archive.org/8/items/A26_BASKETBALL_CX2624/03_CARTRIDGE_BACK.JPG" alt="Cartridge Front" width="200"/>
 </p> <br/>
 
 ## Game information
