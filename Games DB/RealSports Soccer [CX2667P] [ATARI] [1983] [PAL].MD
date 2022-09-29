@@ -1,9 +1,9 @@
 # Atari 2600 - RealSports Soccer
 
 <p align="center" width="100%">
-	<img src="https://archive.org/download/A26_REALSPORT_SOCCER_CX2667P/01_LABEL_FRONT.jpg" alt="Cartridge Front" width="200"/>
-	<img src="https://archive.org/download/A26_REALSPORT_SOCCER_CX2667P/02_LABEL_TOP.jpg" alt="Cartridge Top" width="200"/>
-	<img src="https://archive.org/download/A26_REALSPORT_SOCCER_CX2667P/03_CARTRIDGE_BACK.jpg" alt="Cartridge Top" width="200"/>
+	<img src="https://archive.org/download/A26_REALSPORT_SOCCER_CX2667P/01_LABEL_FRONT.JPG" alt="Cartridge Front" width="200"/>
+	<img src="https://archive.org/download/A26_REALSPORT_SOCCER_CX2667P/02_LABEL_TOP.JPG" alt="Cartridge Top" width="200"/>
+	<img src="https://archive.org/download/A26_REALSPORT_SOCCER_CX2667P/03_CARTRIDGE_BACK.JPG" alt="Cartridge Back" width="200"/>
 </p> <br/>
 
 ## Game information
