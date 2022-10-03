@@ -30,7 +30,7 @@ Il supporto che accompagna la cartuccia è stato riprodotto in stampa 3D, cercan
 
 ## Pinout della cartuccia
 
-Per poter leggere la ROM presente nella cartuccia di gioco dobbiamo conoscere la piedinatura della scheda. Come si può vedere dall'immagine seguente la scheda gestisce i seguenti pin di ingresso/uscita:
+Per poter leggere la ROM presente nella cartuccia di gioco dobbiamo conoscere la piedinatura della scheda. Come si può vedere dall'immagine seguente la scheda gestisce i seguenti pin di ingresso/uscita per pilotare la lettura della ROM presente al suo interno:
 
 	1  | A7		13 | D4
 	2  | A6		14 | D5
