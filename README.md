@@ -56,10 +56,11 @@ Vista la quantità di ingressi ed uscite necessarie verranno utilizzati due shif
 Di seguito lo schema hardware:
 
 <p align="center" width="100%">
-	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Docs/Atari%202600%20Cartridge%20Dumper%20-%20Schema.jpg" alt="Schema" width="400"/>
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Docs/Atari%202600%20Cartridge%20Dumper%20-%20Schema.jpg" alt="Schema" width="600"/>
 </p>
 <br/>
 
+Il prototipo viene costruito saldando i componenti su basetta millefori.
 
 <p align="center" width="100%">
 	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/Prototipo_4.JPG" alt="Connettore" width="200"/>
