@@ -6,6 +6,8 @@ E' composto da Hardware e software studiati per il backup di cartucce di gioco d
 
 La componente Hardware utilizza la scheda Arduino Nano (ATMega328P) come controllore e degli Shift Register (74HC595) per estenderne gli I/O; mentre la parte software è formata dal firmware caricato sull'Arduino ed un client Windows in C# per .Net Framework.
 
+<br/>
+
 ## Connettore
 La prima fase del progetto consiste nel recuperare o riprodurre il connettore di inserimento della cartuccia del gioco.
 
