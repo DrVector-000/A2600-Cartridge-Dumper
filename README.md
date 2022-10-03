@@ -51,7 +51,15 @@ Per poter leggere la ROM presente nella cartuccia di gioco dobbiamo conoscere la
 <br/>
 
 ## Prototipo
-La fase sucessiva riguarda la realizzazione del prototipo harware.
+Vista la quantità di ingressi ed uscite necessarie verranno utilizzati due shift register 74HC595 a 8 bit per pilotare l'indirizzamento in uscita. Mentre utillizzeremo un Arduino Nano come controllore e per acquisire gli 8 bit di dati in ingresso.
+
+Di seguito lo schema hardware:
+
+<p align="center" width="100%">
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Docs/Atari%202600%20Cartridge%20Dumper%20-%20Schema.jpg" alt="Schema" width="400"/>
+</p>
+<br/>
+
 
 <p align="center" width="100%">
 	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/Prototipo_4.JPG" alt="Connettore" width="200"/>
