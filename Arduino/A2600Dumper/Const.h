@@ -22,5 +22,5 @@ const int SN_RCLK_PIN = 11;
 
 const int dataPins[] = 
 {
-    4, 3, 2, 5, 6, 7, 8, 9
+    2, 3, 4, 5, 6, 7, 8, 9
 };

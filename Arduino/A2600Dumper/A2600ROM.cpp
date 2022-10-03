@@ -18,7 +18,7 @@ byte readByte(unsigned int address) {
   addressWrite(addr);
   //Serial.println("address=" + (String)addr);
 
-  //delay(2);
+  //delay(1);
 
   // Lettura pins D2/D9 (Bus Dati)
   byte bval = 0;
@@ -28,7 +28,7 @@ byte readByte(unsigned int address) {
 
   delay(1);
 
-  // Serial.println("readByte=" + (String)bval);
+  //Serial.println("readByte=" + (String)bval);
   return bval;
 }
 
