@@ -44,7 +44,7 @@ Per poter leggere la ROM presente nella cartuccia di gioco dobbiamo conoscere la
 	12 | GND	24 | GND
 
 <p align="center" width="100%">
-	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/A2600%20Cartridge%20Pinout.jpg" alt="Cartridge pinout" width="200"/>
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/A2600%20Cartridge%20Pinout.jpg" alt="Cartridge pinout" width="400"/>
 </p>
 <br/>
 
