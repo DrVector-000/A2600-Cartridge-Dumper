@@ -13,7 +13,7 @@ Visto che il recupero di un connettore originale prevede la ricerca di una sched
 
 La riproduzione è risultata abbastanza semplice, nonostante la particolarità del pezzo, fortunatamente si tratta di un (quasi) comune connettore Edge Card 12x2 Pin; la configurazione di pin 12x2 non è fra le più comuni ma comunque reperibile.
 
-Il supporto che accompagna la cartuccia è stato riprodotto in stampa 3D, cercando su internet si trovano vari modelli 3D pronti all'uso.
+Il supporto che accompagna la cartuccia è stato riprodotto in stampa 3D, cercando in rete si trovano vari modelli 3D pronti all'uso.
 
 <p align="center" width="100%">
 	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/Connettore_1.JPG" alt="Connettore" width="200"/>
@@ -26,8 +26,36 @@ Il supporto che accompagna la cartuccia è stato riprodotto in stampa 3D, cercan
 </p>
 <br/>
 
+## Pinout della cartuccia
+
+Per poter leggere la ROM presente nella cartuccia di gioco dobbiamo conoscere la piedinatura della scheda. Come si può vedere dall'immagine seguente la scheda gestisce i seguenti pin di ingresso/uscita:
+
+	1  | A7		13 | D4
+	2  | A6		14 | D5
+	3  | A5		15 | D6
+	4  | A4		16 | D7
+	5  | A3		17 | D8
+	6  | A2		18 | A12
+	7  | A1		19 | A11
+	8  | A0		20 | A10
+	9  | D1		21 | A9
+	10 | D2		22 | A8
+	11 | D3		23 | +5V 
+	12 | GND	24 | GND
+
+<p align="center" width="100%">
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/A2600%20Cartridge%20Pinout.jpg" alt="Cartridge pinout" width="200"/>
+</p>
+<br/>
+
 ## Prototipo
-![alt text](https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/Prototipo_4.JPG?raw=true)
+La fase sucessiva riguarda la realizzazione del prototipo harware.
+
+<p align="center" width="100%">
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/Prototipo_4.JPG" alt="Connettore" width="200"/>
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/Prototipo_5.JPG" alt="Connettore" width="200"/>
+</p>
+<br/>
 
 ## Licenza
 [MIT](https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/LICENSE)
