@@ -68,5 +68,17 @@ Il prototipo viene costruito saldando i componenti su basetta millefori.
 </p>
 <br/>
 
+## Firmware & Software
+
+<br/>
+
+## Ingegnerizzazione
+
+<p align="center" width="100%">
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/SchedaSopra.JPG" alt="Connettore" width="200"/>
+	<img src="https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/Images/SchedaSotto.JPG" alt="Connettore" width="200"/>
+</p>
+<br/>
+
 ## Licenza
 [MIT](https://github.com/DrVector-000/A2600-Cartridge-Dumper/blob/main/LICENSE)
