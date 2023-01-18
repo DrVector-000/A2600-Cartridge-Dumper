@@ -32,17 +32,17 @@ Il supporto che accompagna la cartuccia è stato riprodotto in stampa 3D, cercan
 
 Per poter leggere la ROM presente nella cartuccia di gioco dobbiamo conoscere la piedinatura della scheda. Come si può vedere dall'immagine seguente la scheda gestisce i seguenti pin di ingresso/uscita per pilotare la lettura della ROM presente al suo interno:
 
-	1  | A7		13 | D4
-	2  | A6		14 | D5
-	3  | A5		15 | D6
-	4  | A4		16 | D7
-	5  | A3		17 | D8
+	1  | A7		13 | D3
+	2  | A6		14 | D4
+	3  | A5		15 | D5
+	4  | A4		16 | D6
+	5  | A3		17 | D7
 	6  | A2		18 | A12
-	7  | A1		19 | A11
-	8  | A0		20 | A10
-	9  | D1		21 | A9
-	10 | D2		22 | A8
-	11 | D3		23 | +5V 
+	7  | A1		19 | A10
+	8  | A0		20 | A11
+	9  | D0		21 | A9
+	10 | D1		22 | A8
+	11 | D2		23 | +5V 
 	12 | GND	24 | GND
 
 <p align="center" width="100%">
