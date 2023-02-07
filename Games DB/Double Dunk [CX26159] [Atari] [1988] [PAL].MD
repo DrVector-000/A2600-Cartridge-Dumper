@@ -1,7 +1,7 @@
 # Atari 2600 - Double Dunk
 
 <p align="center" width="100%">
-	<img src="https://archive.org/download/A26_DOUBLE_DUNK_CX26159/06_BOX_3D.jpg" alt="Cartridge Front" width="200"/>
+	<img src="https://archive.org/download/A26_DOUBLE_DUNK_CX26159/06_BOX_3D.jpg" alt="Cartridge Front" width="300"/>
 </p>
 <p align="center" width="100%">
 	<img src="https://archive.org/download/A26_DOUBLE_DUNK_CX26159/01_LABEL_FRONT.JPG" alt="Cartridge Front" width="200"/>
