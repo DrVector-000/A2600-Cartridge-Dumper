@@ -19,6 +19,7 @@ Midnight Magic					| CX26129		| Atari 16K (F6)		| X
 Millipede					| CX26118P		| Atari 16K (F6)		| X
 Missile Command					| CX2638		| Standard 4K			| X
 Ms. Pac-Man					| CX2675		| Atari 8K (F8)			| X
+Off The Wall					| CX26168		| Atari 16K (F6)		| X
 Outlaw						| CX2605P		| Standard 2K			| X
 Phoenix						| CX2673		| Atari 8K (F8)			| X
 Pole Position					| CX2694		| Atari 8K (F8)			| X
@@ -35,4 +36,4 @@ X = Yes
 N = Unavailable
 - = Not Implemented or Not Tested Yet
 
-Update: 2022/08/07
+Update: 2023/03/20
